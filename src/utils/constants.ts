@@ -29,10 +29,12 @@ export const DEFAULT_VALUES = {
     "Day shift base wage · second shift +$0.15/hr · overnight +$0.25/hr",
   overtimePolicy: "First 2 hours at one multiplier · higher rate after that",
 
-  /** Factorial proposal scope (discovery session) */
+  /** Factorial proposal scope — Starter Planning Enterprise */
+  bundleName: "Starter Planning Enterprise",
+  bundleModules: "Core · Time Tracking · Time Off · Shifts",
   totalColaboradores: 90,
-  custoColaboradorMes_USD: 7,
-  mensalFactorial_USD: 630,
+  custoColaboradorMes_USD: 10,
+  mensalFactorial_USD: 900,
   implantacaoFactorial_USD: 1000,
   implantacaoNota: "€1,000 one-time onboarding fee (as quoted on call)",
   onboardingHoras: 7,

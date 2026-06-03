@@ -65,7 +65,7 @@ export const slides: SlideData[] = [
         </blockquote>
         <p className="opacity-60 font-light text-3xl max-w-[1300px]">
           {d.location} — {d.totalColaboradores} employees across {d.usSites} US plants, {d.shiftCount} shifts.
-          One HR system for time tracking, time off, and audit-ready documents — ready for your{" "}
+          One HR system — <strong className="opacity-100">{d.bundleName}</strong> ({d.bundleModules}) — ready for your{" "}
           {d.fiscalYearStart} rollout.
         </p>
         <div className="mt-16 flex items-center gap-6">
@@ -137,9 +137,9 @@ export const slides: SlideData[] = [
               camera.
             </p>
             <p className="text-[24px] opacity-75 leading-[1.8]">
-              Factorial: one HR layer for kiosk clocking, shift premiums, overtime rules, time off, and cloud
-              documents — so you can present to the US board and UK C-suite with a system ready for{" "}
-              <strong className="opacity-100">{d.goLiveTarget}</strong>.
+              Factorial <strong className="opacity-100">{d.bundleName}</strong> — {d.bundleModules} — for kiosk
+              clocking, shift premiums, overtime rules, and time off — so you can present to the US board and UK
+              C-suite with a system ready for <strong className="opacity-100">{d.goLiveTarget}</strong>.
             </p>
           </div>
           <div className="space-y-6">
@@ -386,7 +386,7 @@ export const slides: SlideData[] = [
   {
     id: "cost-analysis",
     title: "Cost of standing still",
-    summary: "$630/mo · pricing discussed on call",
+    summary: "$900/mo · Starter Planning Enterprise",
     icon: <BarChart3 size={24} />,
     gradient: "from-[hsl(347,90%,22%)] to-[hsl(0,70%,15%)]",
     bg: "dark",
@@ -439,7 +439,7 @@ export const slides: SlideData[] = [
         </div>
         <div className="mt-8 border border-white/15 p-5 text-center space-y-2">
           <p className="text-[22px] opacity-70 font-light">
-            Discussed on your discovery call:{" "}
+            Recommended package — <strong className="opacity-100">{d.bundleName}</strong> ({d.bundleModules}):{" "}
             <strong className="opacity-100">
               {formatUSD(d.custoColaboradorMes_USD)}/employee · {d.totalColaboradores} seats ={" "}
               {formatUSD(d.mensalFactorial_USD)}/month
@@ -465,6 +465,9 @@ export const slides: SlideData[] = [
       <div className="flex flex-col justify-center h-full px-[120px]">
         <SectionLabel>The answer</SectionLabel>
         <SlideTitle>Every pain maps to a concrete change</SlideTitle>
+        <p className="text-[22px] opacity-80 mb-6 max-w-[1100px]">
+          Recommended bundle: <strong>{d.bundleName}</strong> — {d.bundleModules}
+        </p>
         <div className="border-2 border-foreground/25 bg-foreground/[0.06] p-6 mb-10 flex items-center justify-between gap-8">
           <div>
             <p className="text-[22px] font-medium text-foreground mb-2">
@@ -502,8 +505,8 @@ export const slides: SlideData[] = [
                 desc: "One-click compensation spreadsheet for your bookkeeper — hours, OT, PTO, holidays by shift.",
               },
               {
-                label: "Cloud documents & e-sign",
-                desc: "Templates, payslip split-by-employee, audit-proof signatures — disaster-safe compliance.",
+                label: "Core HR & employee data",
+                desc: "Centralized profiles, address, phone, and emergency contacts — self-service workflows to keep demographics current.",
               },
             ].map((f) => (
               <div key={f.label} className="flex items-start gap-4 border border-foreground/20 bg-background p-6">
@@ -653,7 +656,7 @@ export const slides: SlideData[] = [
               { c: "Shift premiums", s: "Hand-calculated in Excel", f: "Automated policies (+$0.15 / +$0.25)" },
               { c: "Overtime rules", s: "Tiered multipliers by hand", f: "Policy blocks on timesheet" },
               { c: "Payroll prep", s: "Weekly spreadsheet rebuild", f: "Compensation export" },
-              { c: "HR documents", s: "100% paper · disaster risk", f: "Cloud · e-sign · split payslips" },
+              { c: "Employee records", s: "Paper files · manual updates", f: "Core HR · self-service workflows" },
               { c: "Employee data", s: "HR tracks changes manually", f: "Self-service workflows + AI reports" },
               { c: "Flip-phone staff", s: "Excluded from mobile apps", f: "Wall kiosk — inclusive for all" },
             ].map((row, i, arr) => (

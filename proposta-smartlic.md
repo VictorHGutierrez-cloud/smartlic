@@ -3,7 +3,8 @@
 ## 01 — Cover
 - **Company:** Smartlic
 - **Seats:** 90 (US employees)
-- **Scope:** Time tracking · Time off · Documents
+- **Recommended bundle:** Starter Planning Enterprise
+- **Modules:** Core · Time Tracking · Time Off · Shifts
 - **Commercial contact:** Victor Gutierrez — Expansion Manager · US · Factorial
 
 ## 02 — Context
@@ -19,9 +20,10 @@ Scheduling is not a problem — **tracking hours, shift premiums, and overtime f
 5. **Inclusive clock-in** — flip-phone employees excluded from mobile-only solutions; wall-mounted tablet kiosk required
 
 ## 04 — Recommended package
-- **Bundle:** Time Tracking + Time Off + Documents
-- **List price per seat/month:** USD 7.00
-- **Total monthly (90 seats):** USD 630.00/month
+- **Bundle:** Starter Planning Enterprise
+- **Modules included:** Core · Time Tracking · Time Off · Shifts
+- **List price per seat/month:** USD 10.00
+- **Total monthly (90 seats):** USD 900.00/month
 
 ## 05 — Clocking & time tracking
 - Wall-mounted **tablet kiosk** at each plant (inclusive for flip-phone workforce)
@@ -29,17 +31,15 @@ Scheduling is not a problem — **tracking hours, shift premiums, and overtime f
 - Automated **shift premium policies** and **tiered overtime rules** on the timesheet
 - Real-time visibility across both US operating locations
 
-## 06 — Operations & reports
-- Approved timesheets feed **Compensation** — one-click export replaces manual spreadsheet rebuild
-- Bookkeeper can be invited with their own seats to extract data directly
-- **Factorial One AI** — instant reports (e.g. full employee address table) without building analytics manually
-- Employee self-service workflows for address, phone, and emergency contact updates
+## 06 — Shifts & time off
+- **Shifts:** manage 3 production shifts with premium rules (+$0.15/hr second shift, +$0.25/hr overnight)
+- **Time off:** PTO and sick leave requests with manager approval — linked directly to timesheets
+- Sun–Thu vs Mon–Fri patterns supported without rebuilding spreadsheets
 
-## 07 — Documents & compliance
-- Cloud storage replaces 100% paper files
-- Contract templates auto-filled with employee data
-- Payslip bulk upload with split-by-employee (name, surname, unique ID)
-- Audit-proof e-signatures with full legal trail
+## 07 — Core HR
+- Centralized employee profiles — address, phone, emergency contacts
+- Self-service workflows so employees update their own demographics
+- **Factorial One AI** — instant reports (e.g. full employee address table) without building analytics manually
 
 ## 08 — Payroll partner handoff
 Factorial consolidates time, absences, shift premiums, and overtime. Your **third-party payroll provider / bookkeeper** continues processing payroll — receiving compensation spreadsheets or direct platform access. No payroll engine replacement required.
@@ -47,7 +47,7 @@ Factorial consolidates time, absences, shift premiums, and overtime. Your **thir
 ## 09 — Investment
 | Item | Amount |
 |------|--------|
-| Licenses (90 seats × $7) | **USD 630.00/month** |
+| Starter Planning Enterprise (90 seats × $10) | **USD 900.00/month** |
 | One-time onboarding | **€1,000** (~USD 1,000 as quoted) |
 | Online onboarding support | ~7 hours |
 
