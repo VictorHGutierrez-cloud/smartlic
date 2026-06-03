@@ -10,9 +10,12 @@ import {
   Smartphone,
   Table2,
   Users,
+  Video,
   X,
   Zap,
 } from "lucide-react";
+import starterPlanningImg from "@/assets/factorial/starter-planning-enterprise.jpg";
+import { ExpandableImage } from "@/components/ui/ImageLightbox";
 import { DEFAULT_VALUES as d } from "@/utils/constants";
 import { formatUSD } from "@/utils/formatters";
 
@@ -200,30 +203,40 @@ export const slides: SlideData[] = [
             Open demo →
           </a>
         </div>
-        <div className="grid grid-cols-2 gap-5">
-          <FactorialCard
-            light
-            icon={<Clock size={22} />}
-            title="Time Tracking"
-            body={`${d.clockingMethod} — automated timesheets with real-time visibility across both plants.`}
-          />
-          <FactorialCard
-            light
-            icon={<Calendar size={22} />}
-            title="Shifts"
-            body={`Shift premium policies (+${d.shiftPremiumSecondPercent}% / +${d.shiftPremiumOvernightPercent}%) and tiered overtime (${d.overtimeFirstTierMultiplier}x / ${d.overtimeSecondTierMultiplier}x) — calculated on the timesheet.`}
-          />
-          <FactorialCard
-            light
-            icon={<Check size={22} />}
-            title="Time Off"
-            body="PTO and sick leave requests with manager approval — linked directly to timesheets."
-          />
-          <FactorialCard
-            light
-            icon={<Users size={22} />}
-            title="Core HR"
-            body="Centralized employee profiles — address, phone, emergency contacts — with self-service workflows."
+        <div className="grid grid-cols-[1.2fr_0.8fr] gap-6 items-stretch">
+          <div className="grid grid-cols-2 gap-5">
+            <FactorialCard
+              light
+              icon={<Clock size={22} />}
+              title="Time Tracking"
+              body={`${d.clockingMethod} — automated timesheets with real-time visibility across both plants.`}
+            />
+            <FactorialCard
+              light
+              icon={<Calendar size={22} />}
+              title="Shifts"
+              body={`Shift premium policies (+${d.shiftPremiumSecondPercent}% / +${d.shiftPremiumOvernightPercent}%) and tiered overtime (${d.overtimeFirstTierMultiplier}x / ${d.overtimeSecondTierMultiplier}x) — calculated on the timesheet.`}
+            />
+            <FactorialCard
+              light
+              icon={<Check size={22} />}
+              title="Time Off"
+              body="PTO and sick leave requests with manager approval — linked directly to timesheets."
+            />
+            <FactorialCard
+              light
+              icon={<Users size={22} />}
+              title="Core HR"
+              body="Centralized employee profiles — address, phone, emergency contacts — with self-service workflows."
+            />
+          </div>
+          <ExpandableImage
+            src={starterPlanningImg}
+            alt="Starter Planning Enterprise — Factorial plan overview"
+            title="Starter Planning Enterprise"
+            caption={`Your proposed plan · ${d.bundleModules}`}
+            className="border border-foreground/15 overflow-hidden bg-background h-[260px]"
+            imgClassName="w-full h-full object-contain object-center"
           />
         </div>
       </div>
@@ -385,6 +398,37 @@ export const slides: SlideData[] = [
             </div>
           </div>
         </div>
+      </div>
+    ),
+  },
+
+  {
+    id: "factorial-video",
+    title: "Discover Factorial",
+    summary: "Product overview · Factorial One AI",
+    icon: <Video size={24} />,
+    bg: "dark",
+    content: (
+      <div className="flex flex-col justify-center items-center h-full px-[100px] text-center">
+        <SectionLabel>See it live</SectionLabel>
+        <SlideTitle>Discover Factorial — built for teams like Smartlic</SlideTitle>
+        <div className="w-[960px] h-[540px] mt-2">
+          <iframe
+            width="960"
+            height="540"
+            src={`https://www.youtube.com/embed/${d.closingVideoId}`}
+            title="Discover Factorial HR Software (English)"
+            frameBorder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowFullScreen
+            className="w-full h-full border-2 border-white/20"
+          />
+        </div>
+        <p className="mt-8 max-w-[960px] text-[20px] font-normal opacity-80 text-left border border-white/20 bg-white/5 p-6">
+          With <strong className="font-bold opacity-100">Factorial One</strong>, your AI business agent pulls reports
+          from across the platform — employee addresses, shift data, and compensation exports — so HR spends less time in
+          spreadsheets and more time on your people.
+        </p>
       </div>
     ),
   },

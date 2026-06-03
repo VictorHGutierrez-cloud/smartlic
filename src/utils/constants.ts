@@ -56,4 +56,7 @@ export const DEFAULT_VALUES = {
 
   payrollPartner: "Third-party payroll provider / bookkeeper",
   clockingMethod: "Wall-mounted tablet kiosk (inclusive for flip-phone employees)",
+
+  /** Closing slide — Discover Factorial HR Software (English) */
+  closingVideoId: "9mUIcLa2te8",
 } as const;
