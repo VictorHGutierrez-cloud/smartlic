@@ -133,11 +133,10 @@ export interface ParticleTextEffectProps {
   interactive?: boolean;
 }
 
-export const BEST_CARE_PARTICLE_WORDS = ["BEST CARE", "FACTORIAL", "HR", "KENYA"];
 export const SMARTLIC_PARTICLE_WORDS = ["SMARTLIC", "FACTORIAL", "HR", "USA"];
 
 export function ParticleTextEffect({
-  words = BEST_CARE_PARTICLE_WORDS,
+  words = SMARTLIC_PARTICLE_WORDS,
   className,
   theme = "light",
   wordIntervalFrames = 240,

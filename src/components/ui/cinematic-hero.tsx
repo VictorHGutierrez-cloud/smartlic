@@ -172,7 +172,7 @@ export interface CinematicHeroProps extends React.HTMLAttributes<HTMLDivElement>
 
 export function CinematicHero({
   brandName = "FACTORIAL HR",
-  heroSubtitle = "Best Care Facilities · Kenya",
+  heroSubtitle = "Smartlic · United States",
   tagline1 = "One platform for",
   tagline2 = "workforce operations.",
   cardHeading = "Smarter HR, fully connected.",
