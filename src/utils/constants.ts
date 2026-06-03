@@ -25,9 +25,12 @@ export const DEFAULT_VALUES = {
   clientQuote:
     "That takes up the most of my time — shift premiums and tracking from spreadsheets.",
   clientQuoteAttribution: "Libby Jensen — HR, Smartlic",
-  shiftPremiums:
-    "Day shift base wage · second shift +$0.15/hr · overnight +$0.25/hr",
-  overtimePolicy: "First 2 hours at one multiplier · higher rate after that",
+  shiftPremiumSecondPercent: 30,
+  shiftPremiumOvernightPercent: 40,
+  shiftPremiums: "Day shift base wage · second shift +30% · overnight +40%",
+  overtimePolicy: "First 2 overtime hours at 1.5x · after that at 2.0x",
+  overtimeFirstTierMultiplier: 1.5,
+  overtimeSecondTierMultiplier: 2.0,
 
   /** Factorial proposal scope — Starter Planning Enterprise */
   bundleName: "Starter Planning Enterprise",
@@ -40,7 +43,7 @@ export const DEFAULT_VALUES = {
   onboardingHoras: 7,
   onboardingDias: "30",
   pricingJustification:
-    "Shifts module for shift premium control across 3 production shifts (+$0.15/hr · +$0.25/hr · tiered OT)",
+    "Shifts module for percentage-based shift premiums (+30% / +40%) and tiered overtime multipliers (1.5x / 2.0x)",
 
   vendedor: "Victor Gutierrez",
   cargoVendedor: "Expansion Manager · US · Factorial",

@@ -139,7 +139,7 @@ export const slides: SlideData[] = [
           <FactorialCard
             icon={<Table2 size={22} />}
             title="Shift premium math"
-            body="Second shift +$0.15/hr · overnight +$0.25/hr · tiered OT — all calculated by hand in Excel."
+            body={`Second shift +${d.shiftPremiumSecondPercent}% · overnight +${d.shiftPremiumOvernightPercent}% · tiered OT (${d.overtimeFirstTierMultiplier}x / ${d.overtimeSecondTierMultiplier}x) — all calculated by hand in Excel.`}
             impact="Libby's #1 time drain"
           />
           <FactorialCard
@@ -211,7 +211,7 @@ export const slides: SlideData[] = [
             light
             icon={<Calendar size={22} />}
             title="Shifts"
-            body={`Shift premium policies (+$0.15/hr · +$0.25/hr) and tiered overtime — calculated on the timesheet.`}
+            body={`Shift premium policies (+${d.shiftPremiumSecondPercent}% / +${d.shiftPremiumOvernightPercent}%) and tiered overtime (${d.overtimeFirstTierMultiplier}x / ${d.overtimeSecondTierMultiplier}x) — calculated on the timesheet.`}
           />
           <FactorialCard
             light

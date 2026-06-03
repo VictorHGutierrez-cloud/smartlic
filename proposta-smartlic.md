@@ -12,7 +12,7 @@ Smartlic is a global manufacturing company with operations in the UK, Scotland, 
 
 ## 03 — Client priorities
 1. Buddy punching on manual time clocks
-2. Shift premium complexity (+$0.15/hr second shift, +$0.25/hr overnight, tiered OT)
+2. Shift premium complexity (+30% second shift, +40% overnight, tiered OT at 1.5x / 2.0x)
 3. Spreadsheet payroll prep for third-party bookkeeper
 4. Paper-only HR files in tornado-risk region
 5. Inclusive clock-in for flip-phone workforce (tablet kiosk)
@@ -26,7 +26,7 @@ Smartlic is a global manufacturing company with operations in the UK, Scotland, 
 
 ## 05 — Solution modules
 - **Time Tracking:** tablet kiosk clocking, automated timesheets, real-time visibility
-- **Shifts:** premium policies and tiered overtime on the timesheet
+- **Shifts:** +30% / +40% shift premium policies and tiered overtime multipliers (1.5x / 2.0x) on the timesheet
 - **Time Off:** PTO and sick leave linked to payroll prep
 - **Core HR:** employee profiles and self-service demographic updates
 
