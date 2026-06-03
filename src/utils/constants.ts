@@ -36,14 +36,11 @@ export const DEFAULT_VALUES = {
   custoColaboradorMes_USD: 10,
   mensalFactorial_USD: 900,
   implantacaoFactorial_USD: 1000,
-  implantacaoNota: "€1,000 one-time onboarding fee (as quoted on call)",
+  implantacaoNota: "$1,000 USD one-time · 7 hours guided onboarding",
   onboardingHoras: 7,
   onboardingDias: "30",
-  // estimativa — 3+ hrs/week on shift spreadsheets
-  horasRHManualMes: 12,
-  custoHoraRH_USD: 35,
-  custoManualMensal_USD: 420,
-  custoManualAnual_USD: 5040,
+  pricingJustification:
+    "Shifts module for shift premium control across 3 production shifts (+$0.15/hr · +$0.25/hr · tiered OT)",
 
   vendedor: "Victor Gutierrez",
   cargoVendedor: "Expansion Manager · US · Factorial",
@@ -53,7 +50,6 @@ export const DEFAULT_VALUES = {
     "https://app.eu2.demo.factorial.dev/dashboard?switchToCompanyId=125471&redirect_uri=https://api.eu2.demo.factorial.dev/users/sign_in",
   demoEmail: "hellen@demo2e774c9b.com",
   demoPassword: "Papapapa333!",
-  closingVideoId: "9mUIcLa2te8",
 
   payrollPartner: "Third-party payroll provider / bookkeeper",
   clockingMethod: "Wall-mounted tablet kiosk (inclusive for flip-phone employees)",

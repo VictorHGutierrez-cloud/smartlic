@@ -179,39 +179,23 @@ export function ColorfulPillCardsGrid({
   );
 }
 
-/** Vibrant accents for proposal slide cards (cycles by index). */
+/** Factorial red accents for proposal slide nav (cycles by opacity only). */
 export const SLIDE_PILL_ACCENTS: PillCardAccent[] = [
   {
-    pill: "border-[#FF355E]/50 bg-gradient-to-r from-[#FF355E]/35 to-rose-600/20 hover:shadow-[0_8px_28px_rgba(255,53,94,0.35)]",
+    pill: "border-[#FF355E]/45 bg-gradient-to-r from-[#FF355E]/25 to-rose-600/15 hover:shadow-[0_8px_28px_rgba(255,53,94,0.2)]",
     icon: "bg-gradient-to-br from-[#FF355E] to-rose-500 text-white",
   },
   {
-    pill: "border-cyan-400/50 bg-gradient-to-r from-cyan-500/30 to-teal-500/20 hover:shadow-[0_8px_28px_rgba(34,211,238,0.3)]",
-    icon: "bg-gradient-to-br from-cyan-400 to-teal-500 text-white",
+    pill: "border-[#FF355E]/40 bg-gradient-to-r from-[#FF355E]/20 to-rose-500/12 hover:shadow-[0_8px_28px_rgba(255,53,94,0.18)]",
+    icon: "bg-gradient-to-br from-rose-500 to-[#FF355E] text-white",
   },
   {
-    pill: "border-amber-400/50 bg-gradient-to-r from-amber-500/30 to-orange-500/20 hover:shadow-[0_8px_28px_rgba(251,191,36,0.3)]",
-    icon: "bg-gradient-to-br from-amber-400 to-orange-500 text-white",
+    pill: "border-rose-400/40 bg-gradient-to-r from-rose-500/22 to-[#FF355E]/18 hover:shadow-[0_8px_28px_rgba(255,53,94,0.18)]",
+    icon: "bg-gradient-to-br from-[#FF355E]/90 to-rose-600 text-white",
   },
   {
-    pill: "border-violet-400/50 bg-gradient-to-r from-violet-500/30 to-purple-600/20 hover:shadow-[0_8px_28px_rgba(167,139,250,0.3)]",
-    icon: "bg-gradient-to-br from-violet-400 to-purple-600 text-white",
-  },
-  {
-    pill: "border-emerald-400/50 bg-gradient-to-r from-emerald-500/30 to-green-600/20 hover:shadow-[0_8px_28px_rgba(52,211,153,0.3)]",
-    icon: "bg-gradient-to-br from-emerald-400 to-green-600 text-white",
-  },
-  {
-    pill: "border-sky-400/50 bg-gradient-to-r from-sky-500/30 to-blue-600/20 hover:shadow-[0_8px_28px_rgba(56,189,248,0.3)]",
-    icon: "bg-gradient-to-br from-sky-400 to-blue-600 text-white",
-  },
-  {
-    pill: "border-fuchsia-400/50 bg-gradient-to-r from-fuchsia-500/30 to-pink-600/20 hover:shadow-[0_8px_28px_rgba(232,121,249,0.3)]",
-    icon: "bg-gradient-to-br from-fuchsia-400 to-pink-600 text-white",
-  },
-  {
-    pill: "border-lime-400/50 bg-gradient-to-r from-lime-500/25 to-emerald-500/20 hover:shadow-[0_8px_28px_rgba(163,230,53,0.25)]",
-    icon: "bg-gradient-to-br from-lime-400 to-emerald-500 text-slate-900",
+    pill: "border-[#FF355E]/35 bg-[#FF355E]/10 hover:shadow-[0_8px_28px_rgba(255,53,94,0.15)]",
+    icon: "bg-[#FF355E] text-white",
   },
 ];
 

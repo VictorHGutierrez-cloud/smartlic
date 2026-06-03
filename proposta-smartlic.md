@@ -8,67 +8,58 @@
 - **Commercial contact:** Victor Gutierrez — Expansion Manager · US · Factorial
 
 ## 02 — Context
-Smartlic is a global manufacturing company with operations in the UK, Scotland, Ireland, England, and Germany. The US program covers **90 employees** across **2 operating locations** with **3 production shifts** (day 6am–2pm, second shift, overnight). The company is opening **2 manufacturing facilities in Brazil**.
-
-Scheduling is not a problem — **tracking hours, shift premiums, and overtime from there is**. HR currently spends **3+ hours** managing shift data in spreadsheets and builds weekly payroll inputs manually for a third-party bookkeeper.
+Smartlic is a global manufacturing company with operations in the UK, Scotland, Ireland, England, and Germany. The US program covers **90 employees** across **2 operating locations** with **3 production shifts**. Scheduling is not the problem — **tracking hours, shift premiums, and overtime from there is**.
 
 ## 03 — Client priorities
-1. **Buddy punching** — fully manual time clocks; employees caught on camera clocking in for someone off-site
-2. **Shift premium complexity** — second shift +$0.15/hr, overnight +$0.25/hr, tiered overtime multipliers — Libby's #1 time drain
-3. **Spreadsheet payroll prep** — hours, OT, vacation, and holidays per shift, weekly totals per employee and per plan
-4. **Paper-only HR documents** — 100% manual; tornado-heavy region creates compliance disaster risk
-5. **Inclusive clock-in** — flip-phone employees excluded from mobile-only solutions; wall-mounted tablet kiosk required
+1. Buddy punching on manual time clocks
+2. Shift premium complexity (+$0.15/hr second shift, +$0.25/hr overnight, tiered OT)
+3. Spreadsheet payroll prep for third-party bookkeeper
+4. Paper-only HR files in tornado-risk region
+5. Inclusive clock-in for flip-phone workforce (tablet kiosk)
 
 ## 04 — Recommended package
 - **Bundle:** Starter Planning Enterprise
-- **Modules included:** Core · Time Tracking · Time Off · Shifts
-- **List price per seat/month:** USD 10.00
+- **Modules:** Core · Time Tracking · Time Off · Shifts
+- **Per user / month:** USD 10.00
 - **Total monthly (90 seats):** USD 900.00/month
+- **Pricing rationale:** Shifts module for shift premium control across 3 production shifts
 
-## 05 — Clocking & time tracking
-- Wall-mounted **tablet kiosk** at each plant (inclusive for flip-phone workforce)
-- Optional geofencing for mobile clock-in where applicable
-- Automated **shift premium policies** and **tiered overtime rules** on the timesheet
-- Real-time visibility across both US operating locations
+## 05 — Solution modules
+- **Time Tracking:** tablet kiosk clocking, automated timesheets, real-time visibility
+- **Shifts:** premium policies and tiered overtime on the timesheet
+- **Time Off:** PTO and sick leave linked to payroll prep
+- **Core HR:** employee profiles and self-service demographic updates
 
-## 06 — Shifts & time off
-- **Shifts:** manage 3 production shifts with premium rules (+$0.15/hr second shift, +$0.25/hr overnight)
-- **Time off:** PTO and sick leave requests with manager approval — linked directly to timesheets
-- Sun–Thu vs Mon–Fri patterns supported without rebuilding spreadsheets
+## 06 — Payroll partner handoff
+Factorial consolidates time, absences, and shift premiums. Your third-party payroll provider / bookkeeper continues processing payroll — receiving compensation export or direct platform access.
 
-## 07 — Core HR
-- Centralized employee profiles — address, phone, emergency contacts
-- Self-service workflows so employees update their own demographics
-- **Factorial One AI** — instant reports (e.g. full employee address table) without building analytics manually
+## 07 — Investment
 
-## 08 — Payroll partner handoff
-Factorial consolidates time, absences, shift premiums, and overtime. Your **third-party payroll provider / bookkeeper** continues processing payroll — receiving compensation spreadsheets or direct platform access. No payroll engine replacement required.
-
-## 09 — Investment
+### One-time implementation
 | Item | Amount |
 |------|--------|
-| Starter Planning Enterprise (90 seats × $10) | **USD 900.00/month** |
-| One-time onboarding | **€1,000** (~USD 1,000 as quoted) |
-| Online onboarding support | ~7 hours |
+| Guided onboarding (7 hours) | **USD 1,000.00** one-time |
+
+### Monthly subscription
+| Item | Amount |
+|------|--------|
+| 90 seats × USD 10/user/month | **USD 900.00/month** |
 
 Subscription billing starts after **30 days** from onboarding payment.
 
-## 10 — Implementation timeline
+## 08 — Implementation timeline
 | Milestone | Target |
 |-----------|--------|
 | Board presentation (US + UK C-suite) | Next week |
 | Decision | Within ~1 month |
-| Contract close | **July 2026** |
+| Contract close | July 2026 |
 | Implementation | ~45 days |
-| Employee go-live | **September 1, 2026** (fiscal year start) |
+| Employee go-live | September 1, 2026 |
 
-## 11 — Next steps
-1. Review this proposal and explore the demo environment (credentials on Solution slide)
-2. Present findings to US board and UK C-suite
-3. Confirm scope and approve — schedule kickoff for July close / September go-live
-
-## 12 — Implementation & support
-Weekly online sessions with a dedicated onboarding specialist. Progressive go-live plan aligned to your September 1 fiscal year rollout — paying for implementation before go-live, rolling out to employees on day one of the new fiscal year.
+## 09 — Next steps
+1. Explore the demo environment (Solution slide)
+2. Present to US board and UK C-suite
+3. Confirm scope and schedule kickoff for July close / September go-live
 
 ---
 
