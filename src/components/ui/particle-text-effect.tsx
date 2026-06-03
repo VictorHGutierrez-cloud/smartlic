@@ -6,13 +6,13 @@ interface Vector2D {
   y: number;
 }
 
-/** Factorial brand palette for particle colors */
+/** Factorial radical red palette for particles */
 const BRAND_COLORS = [
-  { r: 255, g: 53, b: 94 }, // radical red
-  { r: 7, g: 162, b: 173 }, // viridian
-  { r: 255, g: 185, b: 64 }, // sunbeam
-  { r: 255, g: 145, b: 83 }, // tangerine
-  { r: 37, g: 8, b: 20 }, // midnight accent
+  { r: 255, g: 53, b: 94 }, // #FF355E radical red
+  { r: 235, g: 42, b: 78 },
+  { r: 255, g: 82, b: 108 },
+  { r: 210, g: 32, b: 62 },
+  { r: 255, g: 110, b: 125 },
 ];
 
 class Particle {
@@ -133,7 +133,7 @@ export interface ParticleTextEffectProps {
   interactive?: boolean;
 }
 
-export const SMARTLIC_PARTICLE_WORDS = ["SMARTLIC", "FACTORIAL", "HR", "USA"];
+export const SMARTLIC_PARTICLE_WORDS = ["Factorial RH", "SMARTLIC"];
 
 export function ParticleTextEffect({
   words = SMARTLIC_PARTICLE_WORDS,
