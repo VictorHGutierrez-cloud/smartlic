@@ -1,0 +1,188 @@
+Victor Henrique Aguiar Gutierrez Duarte:
+Hello!
+Libby Jensen:
+How are you doing today?
+Victor Henrique Aguiar Gutierrez Duarte:
+Where are you based on the United States?
+Libby Jensen:
+Yes, yep, I'm in the United States.
+Victor Henrique Aguiar Gutierrez Duarte:
+What time is there?
+Libby Jensen:
+It is 10 a.m.
+Victor Henrique Aguiar Gutierrez Duarte:
+Oh my God, you're just beginning your day. Yes.
+Victor Henrique Aguiar Gutierrez Duarte:
+Here it's six o'clock, but I'm really starting my day as well. I have a lot of things to do. Now I see you, but it's a pleasure.
+Victor Henrique Aguiar Gutierrez Duarte:
+So first thing, first of all, I'm Victor Gutierrez. I'm the expansion manager for US. So my purpose here is to listen to you and to help you understand if Factorial can help you solving the problems that I read about. It's physical clock systems, it shifts in tracking. Oh my God, a lot of things bad, right?
+Libby Jensen:
+Yes.
+Victor Henrique Aguiar Gutierrez Duarte:
+So we can make a very pragmatic... demo if you want or we can explore further because i think i have all the problems that you need to solve what if let's go like straight to the solution yeah
+Libby Jensen:
+yeah okay let's
+Victor Henrique Aguiar Gutierrez Duarte:
+go then let me let me share my screen i was making a demo on portuguese like 10 minutes ago so i have to change the language here i'm brazilian by the way
+Libby Jensen:
+We actually just are working on getting things opened up in Brazil for part of our company as well.
+Victor Henrique Aguiar Gutierrez Duarte:
+Really? You are opening an office or hiring people there?
+Libby Jensen:
+So we're opening up two manufacturing facilities.
+Victor Henrique Aguiar Gutierrez Duarte:
+Really? So it's worth it to bring your factories in Brazil in a fiscal perspective? Yes. Nice. So we have offices in the United States. I change here the things. Tell me more about the company. I know that you have like 90 employees, but I don't know exactly where you base it if you have like operations outside the United States.
+Libby Jensen:
+Yeah. So we have two different operations or operating locations in the United States. And the 90 employees is just our United States side because we're just looking at getting a program for the United States. We're also based in the UK, Scotland, Ireland, England, Germany. So, yeah, we're global.
+Victor Henrique Aguiar Gutierrez Duarte:
+Did you travel to any of these places?
+Libby Jensen:
+Unfortunately not. I just did a travel around all the U.S. locations.
+Victor Henrique Aguiar Gutierrez Duarte:
+That's good. That's good. I've never been to U.S., so one of my main goals is to know U.S., but unfortunately, I travel a lot in my job. I hope you start traveling in because you just handle the tough things. You just handle the spreadsheets. Where's the bonus for you, Beth? It's for you.
+Victor Henrique Aguiar Gutierrez Duarte:
+but can you see my screen lovely yes yep i can so let's go i have one hour i have two three hours to talk with you but like we're gonna need like i think 30 minutes to discuss about this uh so 1900 sorry 90 employees that has three different shifts and you took at least three hours to manage the shifts using spreadsheets is that is that the problem the main problem here
+Libby Jensen:
+Yes, that is the main problem as well as buddy punching. Buddy punching is a huge problem because we have fully manual time clocks. So I mean like we have caught on camera our employee clocking someone in that is not on site.
+Victor Henrique Aguiar Gutierrez Duarte:
+Okay. Okay. Okay. That's a problem. So, Andrew, you spoke with Andrew before by the phone, and one of the options that he said to you is to have physical devices to clock in, right? Yes. Okay. Having the mobile phone is not an option? No. Okay. Okay. We do have the jail taxing, so if they clock in at... like for more than 50 meters from the place we can still block this if it's an option okay yes
+Libby Jensen:
+yeah the thing is i have employees who still have flip phones so we need a system that is inclusive to all um to be able to clock in and out makes
+Victor Henrique Aguiar Gutierrez Duarte:
+totally sense okay okay so to clock in and clock out with the half that we you can use a tablet it's a simple tablet like a 50 tablet It's nothing expensive. So we can put a tablet on the wall. The employee goes with their faces, and that's it. That's it. The most important part here is to track and to manage this. Do you have problems creating the chips, like Victor has to work this day, this day, this day? Do you have problems on creating this?
+Libby Jensen:
+No. No. our scheduling um issues with that it's just the tracking from there it's
+Victor Henrique Aguiar Gutierrez Duarte:
+just a strike because you're doing on papers right on cardboard cards okay no it's okay they work victor works in the same shift every time but victor has different like three days like rest days or victor like rest on the same day every week
+Victor Henrique Aguiar Gutierrez Duarte:
+Like you're in place to have different like rest days?
+Libby Jensen:
+Yeah, so
+Libby Jensen:
+Yeah, with our schedules, so we start up operations Sunday for the second shift in the day, and they run through the end of the first shift on Friday. So then everyone is off from then until Sunday on the second shift again. So some of our employees will work Sunday through Thursday, some of them will work Monday through Friday.
+Victor Henrique Aguiar Gutierrez Duarte:
+Perfect. So we have different, that's okay. So far, I think it's really simple. because we can cover the clock in the clock now. One question that I have, do you work with extra hours?
+Libby Jensen:
+Yes.
+Victor Henrique Aguiar Gutierrez Duarte:
+And they have different weights? Yes. Ah, that's the point. So the first two hours has one weight and after that has different weights? Yes. Yeah. Okay. This is not a problem at all, actually. Okay. Don't worry about this because we can cover this on blocks. First thing. we create the shifts and after that we start settling in we will settle for you you have an account manager okay but on the time tracking you see that we have this policy that says a lot of things agreement hours and extra hours conditions. So what does this mean? Exactly this. If Victor works until two hours, the hour has one wait. After that, it's weighted differently. This is not a problem. By the end of the month, I hope, you have everything already calculated for you. So if Victor made two hours at 2.0 multiplier, Victor has four hours. That's the point for you. that's more or less what you need yes amazing this is automatically for you and of course that you can track this every day or weekly or bi-weekly it's not a problem you need to see before closing how do you see this your employees time is clocking it doesn't matter if they're clocking in brazil it doesn't matter you have all the visibility the point is here you have your time sheet It's this. Beatrice, the client hours for Beatrice is 160 and she worked at 106. Okay, perfect. But you see that people has like eight hours of extra hours. Oh, I'm in doubt. I have doubts about this. Let's go for more details. Let me increase the size. And that's it, Beth. How does this look for you? Paid breaks, extra hours, paid absences. Is this work for you?
+Victor Henrique Aguiar Gutierrez Duarte:
+Amazing. Andrew, actually, I heard the conversation that I had with Andrew, like I listened to the entire conversation after you made this. And I know that you have like a third provider that do your payroll, right?
+Libby Jensen:
+Yes.
+Victor Henrique Aguiar Gutierrez Duarte:
+Amazing. I think the most important question now is, which kind of things do you send to your bookkeeper? It's absences, it's extra hours. Can you explain me a little bit?
+Libby Jensen:
+Yeah, so I have a spreadsheet that I am inputting in their hours for each of the different shifts, the overtime hours for each of the different shifts, if they have any vacation or holiday hours, and then a weekly total for both every single individual employee as well as for each of the two different plans.
+Victor Henrique Aguiar Gutierrez Duarte:
+Okay. Oh, my God. So let me show you a thing that is easier, but congratulations for your hard job. Like I have been working with HR for more than five years and I still see a lot of HR working manually like you. Let's try to change this. The thing that we can provide for you, it's after all the absences, all the extra hours, everything is connected. So before the payroll, I'm going to show you how we prepare the payroll, like the entire payroll for you. I clocked in, I clocked out, I have my extra hours. But in case I have a sick leave or any kind of leave, I can track this and this is already connected with the time sheet. This is the employee overview. People can see this. It's okay. They can ask for extra hours in the phone. They can ask for PTOs or sick leave in the phone as well. So it's pretty easy to request it. And after that, you have the calendar. what happened to me in the year. I think this is good to see. Here we have holidays. We have another holiday. I took my vacations here. So we have everything your employee can request, you can approve. And once you approve, this will be like connected directly with the time sheet. So it's less one step for you creating your spreadsheet, right? Makes sense to you. This absence is linked with the time sheets.
+Libby Jensen:
+yes
+Victor Henrique Aguiar Gutierrez Duarte:
+yeah amazing because if they provide like a sick leave document we don't we can't like take these hours because they provide the document so that's the main point after that after everything we have here on compensation your months so in march for example You see that we actually have the base salary as well. You can put anything. Victor, I discounted 500 euros for the employee's payslip. You can put here. Victor made four extra hours at 2.0. You have everything here. So at the end of the month, everything that we made with the extra hours and with the census, et cetera, would be here. You can manually put if you want, or you can just hit a button here on compensations on the timesheet, and all this information that you're doing by your hand will be compensated, and we will create this spreadsheet for you. We will create different compensation spreadsheet for companies for different central costs like you need. You have to create different tables for each one of your companies. Yes. Yep. That's amazing. Perfect. So in this case here, we can approve. Let's approve.
+Victor Henrique Aguiar Gutierrez Duarte:
+Let's try to reproduce the end of your month, okay? It's approved. I can open the timesheet. And once I hit compensation, all those informations, we don't have extra hours here. She doesn't have. So we don't have anything to compensate. Let's try another one. The point is, let's go to this guy, Marcos Sa. I'm using him. Let's go. Details. Let's approve. Everything okay with Marcos Sa. And open the timesheet.
+Victor Henrique Aguiar Gutierrez Duarte:
+Compensation. Can you see here the compensation? Too easy, right? Yeah. That's it. You compensate. You hit the button. You put it on June or July. It's your call, of course. And this will appear on the compensation tab. And you can download this. Or you can even give your bookkeeper all three seats here. You can use factorial, actually, to extract these things for you. You just have to coordinate everything.
+Victor Henrique Aguiar Gutierrez Duarte:
+That's the point. So by the end of the month, you, the bookkeeper, the CEO, people who are responsible for this, you have, of course, this we can export. So we can send through email. It's not a problem. Or you can invite your bookkeeper to enter here, your payroll provider to extract themselves. It's your call. So good. Do you have any questions?
+Libby Jensen:
+No.
+Victor Henrique Aguiar Gutierrez Duarte:
+Regarding the payroll, we spoke about this, the vacation sick leaves, shifts, waits on extra hours. I think that documents, I think documents is like the thing that you have to close it off, right?
+Libby Jensen:
+Yes.
+Victor Henrique Aguiar Gutierrez Duarte:
+Like contracts, like, I don't know, pay slips, everything. Okay, what's your problem? Is to keep this on your desk, like the paper? What's your problem with documents today?
+Libby Jensen:
+So, currently, all of our documents are 100% manual. So, like, let's say we have a natural disaster that comes through. Like, one of our locations is located in a very tornado-heavy area. And, I mean, like, since I started working for the company in October, I have gotten... five notifications of a tornado hitting somewhere in their area like close to them and so like if one of those happened to hit the plants like we are now 100 out of compliance because we do not have a single piece of paper on any of the employees located there
+Victor Henrique Aguiar Gutierrez Duarte:
+oh my god that you you should sound factorial because it's exactly the pitch that i use for documents because if what if that's what's that occurs but it's your reality actually so
+Victor Henrique Aguiar Gutierrez Duarte:
+I'm kind of afraid. But in this case, what we have here, it's very, very simple, okay? Let's say that we have to send a contract to an employee. The first document that you need to send, we can bring your model. So bring your contract model here in Factorial in templates, okay? And we can adapt instantly for any employee that you have. We're going to pull the information, the first name, last name. hours, the working hours, allocation, site allocation, and we can provide you this tailored document. So let's suppose that I have a contract for Adam Garcia. You can see that we transformed this document to his name. That's the first thing. Templates for documents, okay? In case you have to share to send the payslips, probably it's one of the points here. Do you receive the payslips on PDF?
+Libby Jensen:
+Yes.
+Victor Henrique Aguiar Gutierrez Duarte:
+It's one PDF with everyone, right? Okay, don't worry. We understand that the first page is yours, the second page is mine. So once you have your base lib, you can simply drag and drop. It's very easy. Let me put this. And split by employee. So we can create a folder. So first thing, create your folders inside Factorial, your subfolders as well. And after that, it's just a matter of management. So I upload it here with 90 pages here. And the destination folder is the Paisley. Perfect. And I can also request a signature. And this signature is audit proof. So it's compliant. Every document that is signed in factorial is compliant, so you don't have any problems. In the case of an audit trail, you have everything here inside the legal stuff. Make sense? Let's go. So I upload this file. It's not a payslip, actually, but we can track. And we won't send this to the wrong person. No, because we read the name. the surname and a unique ID. It could be their ID, your company ID. So we're not going to send this document to another person because we know that this gives a huge fee for the companies. So basically, upload your play slip. We read name, surname, and the ID. We send in less than five minutes. Everyone receives on their emails. and also on their mobile phones and i can sign like that i can just run my my finger on the screen and it's completed so documents i'm it's pretty solid in factorial okay templates it's processing a huge document here i don't know why but you can send in book have templates and you can track out also if they signed these documents so where is this document you can filter by status. Oh, Victor, I need to see actually the status if the documents were not signed or the documents that went back to the email inbox. Everything related to documents, sending, signing, managing. We have a limited space on our cloud, so it's not a problem. You can upload the maximum number of documents that you need. So far, so good. Yeah. Okay. That's the only thing that I know about your problems. If you have another kind of problem, I'll be very happy to talk about this and to see if you have like other solutions because Vector has more than 20 models. I just showed you three of them.
+Libby Jensen:
+So with the extra hours and like how they're weighted, are you only able to do it based on hours?
+Victor Henrique Aguiar Gutierrez Duarte:
+Why?
+Libby Jensen:
+So like for our employees, so like if they work day shift, they get paid this wage. If they work the second shift, they get paid their wage plus 15 cents for every single hour that they work in that. And then if they work overnight, they get paid their wage plus 25 cents for every hour that they work.
+Victor Henrique Aguiar Gutierrez Duarte:
+okay in this case that's a there's a there's a nice question so let's follow me on this on time tracking let's go again let's go to the politics your policies and we have this extra special hours again the thing is we have two ways of um of like understanding these extra hours some hours it's okay based on hours how much hours they work at or based on days So maybe Monday or Thursday or Wednesday is different from each one of them. So I can add an extra rule here.
+Victor Henrique Aguiar Gutierrez Duarte:
+It's not night shifts, it's turners and noturnas in Portuguese. But here, okay, starting on this case, it's Monday. Sorry, let me say Monday. Okay. On Monday, I have this name on days, and I have starting at nine o'clock until, or it doesn't matter. We have different, you can see here, one hour equals to two, one hour equals to one and a half. I think it's... that's the path to solve your problem but i'm gonna i'm not gonna lie i don't know if i follow it 100 two shifts because your play has one shift and they have the second shift how the second shift works actually so
+Libby Jensen:
+let's say so our shifts go from 6am to 2pm for a day shift okay
+Victor Henrique Aguiar Gutierrez Duarte:
+so
+Libby Jensen:
+if our employee works from 6am to 2 30 pm 30 minutes of their shift is going to be paid, let's say they make $25 an hour. For those 30 minutes, they're going to get $25.15 for those 30 minutes instead of $25.
+Victor Henrique Aguiar Gutierrez Duarte:
+Yes, we sold this exactly like this.
+Victor Henrique Aguiar Gutierrez Duarte:
+You can also use the shifts here. it's not mandatory and i don't think you need it actually you don't need the shifts but you see that we can like differentiate like every type of power here it's it's not a problem because to be honest with you i have a personal client that has different workers in different countries in panama in polonia in china and they have different shifts different our different weights, and we were able to solve this. So in any case, you still have the shifts where you can allocate another shift to this guy or to this girl and say, this shifts 30% more or 40% more. We don't have problems and blockers with this math, really.
+Libby Jensen:
+Okay, perfect.
+Victor Henrique Aguiar Gutierrez Duarte:
+Is this your only question? Yes.
+Libby Jensen:
+That's what takes up the most of my time. So that is what is most important to me.
+Victor Henrique Aguiar Gutierrez Duarte:
+That's the way you like to work. Like, let's fix first the pain, of course. And after that, we can develop together. Because we hope that we stay with our clients as many years as possible. And after that, you can use the performance management, the recruitment side, the engagement. We have different things to happen with HR. yes um
+Libby Jensen:
+oh i actually have one more question so like our employees tracking their demographics so like their address phone number any changes that they have to that um for the employees that's
+Victor Henrique Aguiar Gutierrez Duarte:
+amazing we have you have the type tracking but before that and all the information about your employees are here so the personal details their phone numbers their their emergency contact, the t-shirt size, the address. If they change this, we can track. But most of my clients, when they appear with this question, what I try to tell them is you can create workflows. So let's start all over again, guys. It's the beginning of the year. I need you all, all the companies to update your info. That's amazing that we can do this in a controller way. Look. It's called onboarding here, but it's on workflow. We can configure this first. So, hey team, let's start this year with the right food and et cetera, et cetera. Please, I need you to rewrite your personal information. We can send them a link where they have exactly the task to fill this information. So we can start all over again. feel for you anything that you need. It's not just this, Beth. It's not just general information address. It's not just this. You can create any kind of custom field that you want. Additional employee information. It doesn't matter. For the client that I was speaking before, it's T-shirt size. It's the day that the health card expires. It's anything. Make sense to you? Yes. Amazing. And the cherry of the pie here is the AI. So you can pull a report straight from the screen. You don't have to go to analytics. You don't have to create reports. You don't need to do this. Please, factorial one, can you give me a full table with all the employees address?
+Victor Henrique Aguiar Gutierrez Duarte:
+Factorial will put this for you. You can download on Excel. We are the only HR software that has an authentic AI that does things for you, that create a performance evaluation for you, that create your training for you, that create the reports. Look,
+Victor Henrique Aguiar Gutierrez Duarte:
+interesting, right?
+Libby Jensen:
+That's amazing.
+Victor Henrique Aguiar Gutierrez Duarte:
+I really love this. And you can download after that. It's a demo environment, so that's the point. And you have some credits to use. Factorial 1 is based on credits, but we can talk about this further. When you start complaining about the price, we can talk about this.
+Victor Henrique Aguiar Gutierrez Duarte:
+So yeah, I'm glad that you like it. So it's more or less what you are looking. What do you find on the market about this? Like how Factorial position itself in the market? did you make your search um
+Libby Jensen:
+yeah so i have not seen where like they fall in line for price point like so i have currently um i am looking to source a new program for well i shouldn't say new i should just say a program um and so along with that um you know i've been looking into multiple different programs to figure out not only which one fits us best for what it offers, but also price points as well.
+Victor Henrique Aguiar Gutierrez Duarte:
+Nice. So from me, do you need like the price, like right now, like on general pricing? I have this for you. Like, let's say to you, 90 employees, we're going to charge for you for tech tracking time off documents $7, 7 USD per employee or less.
+Libby Jensen:
+okay and that's for all of the employees you have so like for all of the employees to have all this stuff it's going to be seven dollars per each employee
+Victor Henrique Aguiar Gutierrez Duarte:
+for each place so for 90 it's almost no no no i'm an engineer but i can't make any math anymore so let's suppose seven eight hundred per month okay
+Libby Jensen:
+we
+Victor Henrique Aguiar Gutierrez Duarte:
+have done boarding as well it's the same price it's a unique payment so you pay for a slow one 1,000 euros per onboarding, and after 30 days, the next month, we start billing for the monthly subscription. So having in our mind, that's almost the same. Victor, we're going to close. Okay, Beth, I just paid onboarding. It's going to be seven hours. Okay, seven hours of onboarding. Pretty simple. Online meetings, because we don't have, like... presence physically on all states and on the united states um and that's it like we are very fair at pricing to small companies because we are designed to small companies if a company has 1 000 employees they're gonna pay a lot but in your case i think it's more adaptable all right how does it start to you it's it seems fair to you because you you could have a different opinion that's
+Libby Jensen:
+yeah no that um yeah that seems That seems fair, yeah.
+Victor Henrique Aguiar Gutierrez Duarte:
+Perfect. So inside your company, what should be the next steps? Like I send you a proposal, an overview, this meeting, I can send the recording as well. How can I help you moving forward with us and with your project?
+Libby Jensen:
+Yeah. So if I could get a proposal, next week I'm meeting with my board on the US side as well as the C-suite over in the UK. um to present my findings on different hr systems um and we should be making a decision here in the next month or so on what we're going to do for going forward
+Victor Henrique Aguiar Gutierrez Duarte:
+amazing amazing i can give you a presentation of course i'm gonna send you the price everything everything that you ask it for and but to solve this problem do you have an expectation victor i need to have a product running on september or august like do you have a deadline to have something running
+Libby Jensen:
+Yeah, so we would be looking at full rollouts by the 1st of September. That is when our fiscal year begins, is September. So we would be looking to hopefully roll something out then.
+Victor Henrique Aguiar Gutierrez Duarte:
+Your fiscal year, does this mean that you can only pay on September or you can start paying before? It's just a question because to implement on... Sorry, go on, go on more.
+Libby Jensen:
+So we just like to make big changes for our employees to go for the whole year. So it's something that, you know, we would obviously be paying for the implementation before then, but rolling it out to employees on the 1st of September.
+Victor Henrique Aguiar Gutierrez Duarte:
+Perfect. Because in fact, your project took 45 days to implement more or less, okay? So to have this running in September, probably have to close this on July. Okay. Perfect. Nice, Beth. Nice. It was a nice conversation.
+Libby Jensen:
+Yes, it was great to meet you.
+Victor Henrique Aguiar Gutierrez Duarte:
+Nice to meet you as well. So, okay. By the first hour tomorrow, you have your proposal on your desk.
+Libby Jensen:
+All right. That would be great.
+Victor Henrique Aguiar Gutierrez Duarte:
+Okay. You have my mail tomorrow, but in any case, you can send me your questions, okay? Yes. Will do. That's amazing. Have a great beginning of your day. I'm going to rest right now.
+Libby Jensen:
+All right. Enjoy your evening.
+Victor Henrique Aguiar Gutierrez Duarte:
+Bye, Beth. Nice to meet you. Bye.

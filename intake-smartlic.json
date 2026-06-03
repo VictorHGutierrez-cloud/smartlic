@@ -1,0 +1,21 @@
+{
+  "organizationName": "Smartlic",
+  "sellerName": "Victor Gutierrez",
+  "seatCount": 90,
+  "discountPercent": 0,
+  "bundleName": "Time Tracking + Time Off + Documents",
+  "listPricePerSeatPerMonth": 7,
+  "recruitmentTier": null,
+  "recruitmentListPricePerMonth": null,
+  "implementationListOneTime": 1000,
+  "implementationCurrencyNote": "€1,000 one-time onboarding fee as quoted on discovery call",
+  "context": "US manufacturing with 90 employees across 2 plants and 3 shifts. Global operations in UK, Scotland, Ireland, England, and Germany. Opening 2 manufacturing facilities in Brazil.",
+  "priorities": "Shift tracking from spreadsheets, buddy punching on manual clocks, shift premium calculations (+$0.15/hr second shift, +$0.25/hr overnight), tiered overtime, payroll spreadsheet for bookkeeper, paper-only HR documents, inclusive clock-in for flip-phone employees.",
+  "mobileStory": "Tablet kiosk on plant wall for clock in/out (inclusive for flip-phone workforce). Mobile app for PTO, sick leave requests, and document signing where employees have smartphones.",
+  "operationsStory": "Automated timesheets with shift premiums and overtime policies. Compensation export replaces manual spreadsheet payroll prep. Real-time visibility across 2 US sites.",
+  "documentsStory": "Cloud document storage with templates, e-signatures, payslip split-by-employee upload, and audit trail — replacing 100% paper files in tornado-risk region.",
+  "recruitmentStory": null,
+  "payrollStory": "Factorial consolidates time, absences, and shift premiums. Third-party payroll provider / bookkeeper receives compensation export or direct platform access.",
+  "implementationStory": "~45 days implementation. ~7 hours online onboarding. Target close July 2026 for September 1 fiscal year go-live.",
+  "nextSteps": "Send proposal for US board and UK C-suite presentation next week. Decision within ~1 month. Full employee rollout September 1, 2026."
+}
